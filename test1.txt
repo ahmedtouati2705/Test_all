@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C s'appelle OS
+ Le num‚ro de s‚rie du volume est 5A7E-B7E4
+
+ R‚pertoire de C:\Users\Touati Ahmed\Desktop\Test
+
+10/10/2020  10:45    <DIR>          .
+10/10/2020  10:45    <DIR>          ..
+10/10/2020  10:45                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  114ÿ059ÿ943ÿ936 octets libres
